@@ -1,0 +1,9 @@
+{
+	"name": "Soumyaadftestfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e26a3ac4-d8b7-4cde-bca7-70f02256b494",
+		"tenantId": "3f72bf5b-e8d1-4bde-b84e-43bb2fae05cd"
+	}
+}
